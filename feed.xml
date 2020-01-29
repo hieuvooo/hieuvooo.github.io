@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Hieuvo.site</title>
-    <link href="https://hieuvooo.github.io/feed.xml" rel="self" />
-    <link href="https://hieuvooo.github.io" />
-    <updated>2020-01-29T10:32:07+07:00</updated>
+    <link href="https://hieuvo.site/feed.xml" rel="self" />
+    <link href="https://hieuvo.site" />
+    <updated>2020-01-29T10:37:15+07:00</updated>
     <author>
         <name>Hieuvo</name>
     </author>
-    <id>https://hieuvooo.github.io</id>
+    <id>https://hieuvo.site</id>
 
     <entry>
         <title>StatiCrypt</title>
         <author>
             <name>Hieuvo</name>
         </author>
-        <link href="https://hieuvooo.github.io/staticrypt.html"/>
-        <id>https://hieuvooo.github.io/staticrypt.html</id>
+        <link href="https://hieuvo.site/staticrypt.html"/>
+        <id>https://hieuvo.site/staticrypt.html</id>
 
         <updated>2020-01-19T11:54:49+07:00</updated>
             <summary>
